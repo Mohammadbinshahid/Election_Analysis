@@ -159,7 +159,7 @@ for candidate_name in candidate_votes:
     # votes to the terminal.
 
     # Determine winning vote count and candidate
-    
+
     # Determine if the votes is greater than the winning count.
     if (votes > winning_count) and (vote_percentage > winning_percentage):
          # If true then set winning_count = votes and winning_percent =
@@ -181,3 +181,4 @@ winning_candidate_summary = (
     f"Winning Percentage: {winning_percentage:.1f}%\n"
     f"-------------------------\n")
 print(winning_candidate_summary)
+
