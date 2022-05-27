@@ -17,7 +17,7 @@ The candidates were:
 Charles Casper Stockham, Diana DeGette, Raymon Anthony Doane
 The candidate results showed that Diana received the most number of votes at 272,892 (73.8%) and hence was the winner of the election. Charles Casper received 85,213 votes (23.0%) and Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
 
-# Election-Audit Summary:
+## Election-Audit Summary:
 1. There were 3 Candidates in the votes cast in this election
 2. The candidates were
       •	Charles Casper Stockham - 85,213 votes (23%)
